@@ -22,5 +22,61 @@
                 "stream": true
             }
         ]
+    },
+    "tobyfox.deathbyglamour": {
+        "sounds": [
+            {
+                "name": "shrex/deathbyglamour",
+                "stream": true
+            }
+        ]
+    },
+    "tobyfox.bigshot": {
+        "sounds": [
+            {
+                "name": "shrex/bigshot",
+                "stream": true
+            }
+        ]
+    },
+    "saster.bonedoggle": {
+        "sounds": [
+            {
+                "name": "shrex/bonedoggle",
+                "stream": true
+            }
+        ]
+    },
+    "tobyfox.aotkq": {
+        "sounds": [
+            {
+                "name": "shrex/aotkq",
+                "stream": true
+            }
+        ]
+    },
+    "tobyfox.theworldrevolving": {
+        "sounds": [
+            {
+                "name": "shrex/theworldrevolving",
+                "stream": true
+            }
+        ]
+    },
+    "tobyfox.spiderdance": {
+        "sounds": [
+            {
+                "name": "shrex/spiderdance",
+                "stream": true
+            }
+        ]
+    },
+    "rickastley.togetherforever": {
+        "sounds": [
+            {
+                "name": "shrex/togetherforever",
+                "stream": true
+            }
+        ]
     }
 }
