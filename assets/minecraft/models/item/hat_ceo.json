@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "hatCEO",
-		"particle": "hatCEO"
+		"0": "hat_ceo",
+		"particle": "hat_ceo"
 	},
 	"elements": [
 		{
