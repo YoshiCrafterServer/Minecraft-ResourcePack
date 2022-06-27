@@ -1,0 +1,26 @@
+{
+    "shrex.shrexophone": {
+        "sounds": [
+            {
+                "name": "shrex/shrexophone",
+                "stream": true
+            }
+        ]
+    },
+    "justice.watersofnazareth": {
+        "sounds": [
+            {
+                "name": "shrex/waters",
+                "stream": true
+            }
+        ]
+    },
+    "rickastley.nevergonnagiveyouup": {
+        "sounds": [
+            {
+                "name": "shrex/rickroll",
+                "stream": true
+            }
+        ]
+    }
+}
